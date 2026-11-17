@@ -1,0 +1,11 @@
+{
+  "name": "luis-rocha",
+  "owner": { "name": "Luis Rocha" },
+  "plugins": [
+    {
+      "name": "tryhard-edit",
+      "source": "./plugins/tryhard-edit",
+      "description": "Edición de reels talking-head estilo Tryhard Edit. La primera vez instala el sistema de carpetas en tu equipo."
+    }
+  ]
+}
